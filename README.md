@@ -13,4 +13,4 @@ This tool has some dependencies. To get these dependencies, install Mercurial fi
 
 <code>C:\mitsuba\>rename dependencies_windows dependencies</code>
 
-Noted that some codes in this tool are from Mitsuba source code and Mitsuba is is licensed under the terms of Version 3 of the GNU General Public License, so if you use this code in your project, please follow the rules described in the license.
+Noted that some codes in this tool are from Mitsuba source code and Mitsuba is licensed under the terms of Version 3 of the GNU General Public License, so if you use this code in your project, please follow the rules described in the license.
